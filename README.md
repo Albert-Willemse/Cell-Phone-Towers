@@ -41,4 +41,13 @@ To set up the project, follow these steps:
 
 ## Reference List
 
+1. Awati, R. 2022. _Latitude and longitude._ https://www.techtarget.com/whatis/definition/latitude-and-longitude#:~:text=Latitudes%20are%20horizontal%20lines%20that,or%20places%20on%20the%20globe Date of access: 2023/11/24.
+2. City, T.C. 2023. _How to install matplotlib in visual studio code (2023)_ https://www.youtube.com/watch?v=qZGDFW97Ukg Date of access: 2023/11/24.
+3. Ed, H. 2023. _Eastings and northings grid references._ https://www.hunter-ed.com/newsouthwales/studyGuide/Eastings-and-Northings-grid-references/201601_138837/ Date of access: 2023/11/24.
+4. H., P. 2017. _How i will know what pip packages need my python project and how to list what i already use in my project._ https://stackoverflow.com/questions/45282803/how-i-will-know-what-pip-packages-need-my-python-project-and-how-to-list-what-i Date of access: 2023/11/26.
+5. matplotlib. _Scatter plot._ https://matplotlib.org/stable/gallery/shapes_and_collections/scatter.html Date of access: 2023/11/24.
+6. matplotlib. _Choosing colormaps._ https://matplotlib.org/stable/users/explain/colors/colormaps.html Date of access: 2023/11/24.
+7. Raj, P. 2022. _How to label points on a scatter plot in matplotlib?_ https://datascienceparichay.com/article/matplotlib-label-points-on-scatter-plot/ Date of access: 2023/11/24.
+8. w3schools. _Matplotlib scatter._ https://www.w3schools.com/python/matplotlib_scatter.asp Date of access: 2023/11/24.
+
 

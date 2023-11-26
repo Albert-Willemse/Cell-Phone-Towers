@@ -32,7 +32,7 @@ _You will need to have [python]((https://www.python.org/downloads/)) installed_
 ```bash
     .\setup.bat
 ```
-If you get a "_Warning: The script f2py.exe is installed in 'C:\Program Files(x86)\Python\Scripts' which is not on PATH_" then follow these instructions to set the environment variables. And then run:
+If you get a "_Warning: The script f2py.exe is installed in 'C:\Program Files(x86)\Python\Scripts' which is not on PATH_" then follow these [instructions](https://www.reddit.com/r/learnpython/comments/buyeya/how_to_add_directories_to_the_path/) to set the environment variables. And then run:
 ```bash
     pip install -r requirements.txt
 ```

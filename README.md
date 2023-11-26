@@ -3,7 +3,7 @@ _The objective of this project is to design and implement a command-line program
 
 ## Table of Contents
 - [Project Goal](#project-goal)
-- [Setup Instructions](#setup-instructionss)
+- [Setup Instructions](#setup-instructions)
 - [Results of Given data](#results-of-given-data)
 - [Reference List](#reference-list)
 

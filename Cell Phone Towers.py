@@ -163,3 +163,4 @@ try:
 except Exception as e:
        # By this way we can know about the type of error occurring
         print("The error is: ",e)
+        input("Press any key to exit...")

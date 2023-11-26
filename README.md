@@ -13,6 +13,7 @@ _The primary goal is to achieve an efficient frequency allocation plan where cel
 ## Setup Instructions
 
 To set up the project, follow these steps:
+
 _You will need to have python installed_
 
 1. Clone the repository:

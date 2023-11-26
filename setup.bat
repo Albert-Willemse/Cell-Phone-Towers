@@ -1,11 +1,10 @@
-#!/bin/bash
+@echo off
 
-# Create and activate the virtual environment
+rem Create and activate the virtual environment
 python -m venv my_venv
-source my_venv/bin/activate
+call my_venv\Scripts\activate
 
-# Install dependencies from requirements.txt
+rem Install dependencies from requirements.txt
 pip install -r requirements.txt
 
-# Notify the user that setup is complete
-echo "Setup complete. Virtual environment activated."
+echo Setup complete. Virtual environment activated.

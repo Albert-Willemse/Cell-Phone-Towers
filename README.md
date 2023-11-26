@@ -3,7 +3,7 @@ _The objective of this project is to design and implement a command-line program
 
 ## Table of Contents
 - [Project Goal](#project-goal)
-- [Usage Instructions](#usage-instructions)
+- [Setup Instructions](#setup-instructionss)
 - [Results of Given data](#results-of-given-data)
 - [Reference List](#reference-list)
 
@@ -13,6 +13,7 @@ _The primary goal is to achieve an efficient frequency allocation plan where cel
 ## Setup Instructions
 
 To set up the project, follow these steps:
+_You will need to have python installed_
 
 1. Clone the repository:
 

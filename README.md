@@ -12,27 +12,36 @@ _The primary goal is to achieve an efficient frequency allocation plan where cel
 
 ## Setup Instructions
 
-To set up the project, follow these steps:
+To set up the project, follow these steps (Create it in its own project folder):
 
-_You will need to have python installed_
+_You will need to have [python]((https://www.python.org/downloads/)) installed_
 
-1. Clone the repository:
+1. Clone the repository _(You will need to have [Git](https://git-scm.com/downloads) installed otherwise just copy the files from the repo)_:
 
-    ```bash
+```bash
     git clone https://github.com/Albert-Willemse/Cell-Phone-Towers.git
-    ```
+```
 
+2. Navigate to the project directory:
+```bash
+    cd ./Cell-Phone-Towers
+```
+    
 3. Run the setup script (for Windows users):
 
-    ```bash
+```bash
     .\setup.bat
-    ```
+```
+If you get a "_Warning: The script f2py.exe is installed in 'C:\Program Files(x86)\Python\Scripts' which is not on PATH_" then follow these [instructions](https://www.reddit.com/r/learnpython/comments/buyeya/how_to_add_directories_to_the_path/) to set the environment variables. And then run:
+```bash
+    pip install -r requirements.txt
+```
 
-5. Run the script:
+4. Run the script (you can also run the script manually):
 
-    ```bash
-    Cell Phone Towers.py
-    ```
+```bash
+    python Cell Phone Towers.py
+```
 ## Results of Given data
 
 ### Allocated Frequencies

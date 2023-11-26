@@ -14,7 +14,7 @@ _The primary goal is to achieve an efficient frequency allocation plan where cel
 
 To set up the project, follow these steps (Create it in its own project folder):
 
-_You will need to have [python]((https://www.python.org/downloads/)) installed_
+_You will need to have [python](https://www.python.org/downloads/) installed_
 
 1. Clone the repository _(You will need to have [Git](https://git-scm.com/downloads) installed otherwise just copy the files from the repo)_:
 
